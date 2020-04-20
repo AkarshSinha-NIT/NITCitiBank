@@ -16,4 +16,9 @@ public class Utility {
 		System.out.println("123");
 
 	}
+	
+	public void m2()
+	{
+		System.out.println("m3");
+	}
 }
