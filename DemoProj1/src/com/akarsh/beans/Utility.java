@@ -19,14 +19,24 @@ public class Utility {
 	
 	public void m2()
 	{
+
 		System.out.println("m2");
+
+
+		System.out.println("m2 completed");
+
 	}
 	
 
 	public void m4()
 	{
-		System.out.println("m4");
+
+		System.out.println("m4 done");
+		
 	}
+
+
+
 	public void m3()
 	{
 		System.out.println("m3");
